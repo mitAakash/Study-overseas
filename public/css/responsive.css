@@ -1,0 +1,796 @@
+/*
+Template Name: AquaLand
+File Name: responsive.css
+Author Name: ThemeVault
+Author URI: http://www.themevault.net/
+License URI: http://www.themevault.net/license/
+*/
+/* Landscape phones and smaller */
+@media (min-width: 1199px) and (max-width: 1240px) {}
+
+@media (max-width: 1199px) {
+}
+
+@media (min-width:1000px) and (max-width:1100px)
+{
+    .tv-section-title > h2 {
+        font-size: 30px;
+    }
+    .tv-banner-desc > p {
+        width: 75%;
+    }
+    #header .tv-social-navbar > a > span {
+        margin-left: 7px;
+        margin-right: 0;
+    }
+    #header .tv-social-navbar {
+        line-height: 85px;
+    }
+    .tv-menu {
+        font-size: 1em;
+        letter-spacing: 1px;
+    }
+    .tv-header-desc > h1 {
+        font-size: 30px;
+    }
+    .tv-header-desc > h2 {
+        font-size: 30px;
+    }
+    .tv-menu {
+        padding:10px !important;
+    }
+    .tv-about-info {
+        font-size:18px;
+    }
+    .border {
+        margin: 20px 0;
+    }
+    .tv-free-desc > h3 {
+        font-size: 14px;
+    }
+    .tv-free-desc > p {
+        text-align: justify;
+    }
+    .tv-hostel-desc > h3 {
+        font-size: 12px;
+    }
+    .tv-hostel-desc {
+        max-height: 275px;
+    }
+    .tv-blog-desc > h3 {
+        font-size: 1.2em;
+        margin-bottom: 10px;
+    }
+    .tv-blog-desc > p {
+        font-size: 1em;
+        margin-top: 10px;
+    }
+    .btn.btn-blog {
+        margin-top: 10px;
+    }
+    .tv-blog-desc {
+        margin-top: 20px;
+    }
+    .tv-hostel-desc > img {
+        width: 40px;
+    }
+    .tv-dream-desc > h3 {
+        font-size: 20px;
+    }
+    .border {
+        width: 70%;
+    }
+    .tv-sm-margin-top-20
+    {
+        margin-top:20px;
+    }
+    .tv-sm-block-both{
+        clear:both;
+    }
+    .tv-footer-desc {
+        text-align: left;
+    }
+    .tv-dream-desc {
+        width: 45%;
+    }
+    .tv-free-desc{
+        margin-top:20px;
+    }
+    .tv-footer-desc > p {
+        text-align: left;
+    }
+    .tv-about-desc {
+        padding: 0px 0;
+    }
+    .tv-hotel-desc > p {
+        font-size: 1.02em;
+    }
+    .tv-discount-desc > h3 {
+        font-size: 15px;
+        width:80%;
+    }
+    .tab-pane > img {
+        height: 555px;
+    }
+
+}
+
+@media(max-width:992px) and (max-width:999px)
+{
+    #header .tv-social-navbar > a > span {
+        margin: 0 9px;
+    }
+    .tv-about-desc {
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .tv-about-desc {
+        margin-top: 20px;
+    }
+    .tv-section-title > h2 {
+        font-size: 30px;
+    }
+    .tv-banner-desc > p {
+        width: 75%;
+    }
+    #header .tv-social-navbar > a > span {
+        margin-left: 7px;
+        margin-right: 0;
+    }
+    #header .tv-social-navbar {
+        line-height: 85px;
+    }
+    .tv-menu {
+        font-size: 1em;
+        letter-spacing: 1px;
+    }
+    .tv-header-desc > a > h2 {
+        font-size: 30px;
+    }
+    .tv-header-desc > a > h1 {
+        font-size: 30px;
+    }
+    .tv-menu {
+        padding:10px !important;
+    }
+    .tv-about-info {
+        font-size: 25px;
+    }
+    .border {
+        margin: 20px 0;
+    }
+    .tv-free-desc > h3 {
+        font-size: 14px;
+    }
+    .tv-free-desc > p {
+        text-align: justify;
+    }
+    .tv-hostel-desc > h3 {
+        font-size: 12px;
+    }
+    .tv-hostel-desc {
+        max-height: 304px;
+    }
+    .tv-hostel-desc > img {
+        width: 40px;
+    }
+    .tv-dream-desc > h3 {
+        font-size: 20px;
+    }
+    .border {
+        width: 70%;
+    }
+    .tv-sm-margin-top-20
+    {
+        margin-top:20px;
+    }
+    .tv-sm-block-both{
+        clear:both;
+    }
+    .tv-footer-desc {
+        text-align: left;
+    }
+    .tv-dream-desc {
+        width: 45%;
+    }
+    .tv-free-desc{
+        margin-top:20px;
+    }
+    .tv-footer-desc > p {
+        text-align: left;
+    }
+    .tv-home-zindex {
+        clear: both;
+    }
+    .tv-layout2-img > img {
+        height: 400px;
+    }
+    .tv-layout2-img{
+        height:400px;
+    }
+    #resortlayout2 .carousel-control {
+        opacity: 1;
+        top: 90%;
+    }
+    .tv-hotel-desc {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .tv-hotel-desc > p {
+        text-align: center;
+    }
+    .tv-discount-desc > h3 {
+        font-size: 15px;
+        width:80%;
+    }
+    .tv-footer-desc > p {
+        line-height: 22px;
+    }
+    .tv-404-info > p {
+        width: 60%;
+    }
+    .tv-about-desc {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (min-width:600px) and (max-width: 767px) {
+    .tv-404-info > h1 {
+        font-size: 5.4em;
+    }
+    .tv-404-info > p {
+        width: 85%;
+    }
+    .tv-section-title > h2 {
+        font-size: 20px;
+    }
+    .tv-discount-desc > h2 {
+        font-size: 25px;
+    }
+    .tv-discount-desc > h3 {
+        font-size: 15px;
+        width:70%;
+    }
+    .btn.btn-discount {
+        margin-top: 0;
+    }
+    .tv-free-desc > span {
+        font-size: 10px;
+    }
+    .tv-free-desc > h3 {
+        font-size: 9px;
+    }
+    .border {
+        width: 70%;
+    }
+    .tv-dream-desc > h3 {
+        font-size: 17px;
+    }
+    .tv-free-desc > span {
+        float: none;
+        font-size: 1.2em;
+        margin-bottom: 0;
+    }
+    .tv-free-desc > h3 {
+        font-size: 12px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+        margin-top: 20px;
+        float: none;
+    }
+    .tv-free-desc {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .tv-blog-desc {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .tv-dream-desc {
+        left: 50%;
+        text-align: center;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 90%;
+    }
+    .tv-header-desc > a > h2 {
+        font-size: 30px;
+    }
+    .tv-header-desc > a > h1 {
+        font-size: 30px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #16335f;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .tv-banner-desc > p {
+        width: 90%;
+    }
+    .tv-about-desc {
+        text-align: center;
+    }
+    .tv-about-content {
+        text-align: center;
+    }
+    .tv-condominiums-desc {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .tv-gallery-desc {
+        text-align: center;
+    }
+    .form-control::-moz-placeholder {
+        letter-spacing: 0px;
+    }
+    #reservation .btn-primary {
+        letter-spacing:0px;
+    }
+    .tv-footer-desc {
+        text-align: center;
+    }
+    .tv-footer-desc > p {
+        text-align: center;
+    }
+    .tv-dream-desc > p{
+        text-align: center;
+    }
+    .border {
+        margin: 30px auto;
+    }
+    .tv-blog-desc > p{
+        text-align: center;
+    }
+    .tv-layout2-img > img {
+        height: 400px;
+    }
+    .tv-layout2-img{
+        height:400px;
+    }
+    #resortlayout2 .carousel-control {
+        opacity: 1;
+        top: 90%;
+    }
+    .nav > li {
+        display: inline;
+    }
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    .dropdown-content a:hover {background-color: #f1f1f1}
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    .dropdown-content {
+        background: #ffffff none repeat scroll 0 0;
+        border-left: 5px solid #f37c3d;
+        color: #ffffff;
+        float: none;
+        left: 0;
+        padding: 0;
+        width: auto;
+        border-radius: 0;
+        border-width: 0 0 0 5px;
+        position: relative;
+    }
+    .dropdown-menu > li > a {
+        clear: both;
+        color: #000000;
+        display: block;
+        font-size: 1.04em;
+        letter-spacing: 1px;
+        padding: 15px;
+        white-space: nowrap;
+        text-transform: capitalize;
+    }
+    .tv-hotel-desc {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .tv-hotel-desc > p {
+        text-align: center;
+    }
+    .tv-404-info {
+        left: 50%;
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        z-index: 2;
+    }
+    .error-border {
+        margin: 15px auto;
+    }
+    .tv-404-info > p {
+        width: 100%;
+    }
+    .tv-about-desc {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+}
+
+@media (max-width: 500px) {
+    .tv-section-title > h2 {
+        font-size: 20px;
+    }
+    .tv-discount-desc > h2 {
+        font-size: 25px;
+    }
+    .tv-discount-desc > h3 {
+        font-size: 15px;
+        width:100%;
+    }
+    .btn.btn-discount {
+        margin-top: 0;
+    }
+    .tv-free-desc > span {
+        font-size: 10px;
+    }
+    .tv-free-desc > h3 {
+        font-size: 9px;
+    }
+    .border {
+        width: 70%;
+    }
+    .tv-dream-desc > h3 {
+        font-size: 17px;
+    }
+    .tv-free-desc > span {
+        float: none;
+        font-size: 1.2em;
+        margin-bottom: 0;
+    }
+    .tv-free-desc > h3 {
+        font-size: 12px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+        margin-top: 20px;
+        float: none;
+    }
+    .tv-free-desc {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .tv-blog-desc {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .tv-dream-desc {
+        left: 50%;
+        text-align: center;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 90%;
+    }
+    .tv-header-desc > a > h2 {
+        font-size: 30px;
+    }
+    .tv-header-desc > a > h1 {
+        font-size: 30px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #16335f;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .tv-banner-desc > p {
+        width: 90%;
+    }
+    .tv-about-desc {
+        text-align: center;
+    }
+    .tv-about-content {
+        text-align: center;
+    }
+    .tv-gallery-desc {
+        text-align: center;
+    }
+    .form-control::-moz-placeholder {
+        letter-spacing: 0px;
+    }
+    #reservation .btn-primary {
+        letter-spacing:0px;
+    }
+    .tv-footer-desc {
+        text-align: center;
+    }
+    .tv-footer-desc > p {
+        text-align: center;
+    }
+    .tv-dream-desc > p{
+        text-align: center;
+    }
+    .border {
+        margin: 30px auto;
+    }
+    .tv-condominiums-desc > p {
+        text-align: center;
+    }
+    .tv-layout2-img > img {
+        height: 400px;
+    }
+    .tv-layout2-img{
+        height:400px;
+    }
+    #resortlayout2 .carousel-control {
+        opacity: 1;
+        top: 90%;
+    }
+    .nav > li {
+        display: inline;
+    }
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    .dropdown-content a:hover {background-color: #f1f1f1}
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    .dropdown-content {
+        background: #ffffff none repeat scroll 0 0;
+        border-left: 5px solid #f37c3d;
+        color: #ffffff;
+        float: none;
+        left: 0;
+        padding: 0;
+        width: auto;
+        border-radius: 0;
+        border-width: 0 0 0 5px;
+        position: relative;
+    }
+    .dropdown-menu > li > a {
+        clear: both;
+        color: #000000;
+        display: block;
+        font-size: 1.04em;
+        letter-spacing: 1px;
+        padding: 15px;
+        white-space: nowrap;
+        text-transform: capitalize;
+    }
+    .tv-hotel-desc {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .tv-hotel-desc > p {
+        text-align: center;
+    }
+    .tv-404-info {
+        left: 50%;
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        z-index: 2;
+    }
+    .error-border {
+        margin: 15px auto;
+    }
+    .tv-404-info > p {
+        width: 100%;
+    }
+    .tv-about-info {
+        font-size: 2.2em;
+    }
+    .tv-about-desc {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .tv-about-desc {
+        margin-top: 20px;
+    }
+    .tv-banner-desc > h2{
+        font-size: 30px;
+    }
+    .tv-section-title > h2 {
+        font-size: 20px;
+    }
+    .tv-discount-desc > h2 {
+        font-size: 25px;
+    }
+    .tv-discount-desc > h3 {
+        font-size: 15px;
+        width:100%;
+    }
+    .btn.btn-discount {
+        margin-top: 0;
+    }
+    .tv-free-desc > span {
+        font-size: 10px;
+    }
+    .tv-free-desc > h3 {
+        font-size: 9px;
+    }
+    .border {
+        width: 70%;
+    }
+    .tv-dream-desc > h3 {
+        font-size: 16px;
+    }
+    .tv-free-desc > span {
+        float: none;
+        font-size: 1.2em;
+        margin-bottom: 0;
+    }
+    .tv-free-desc > h3 {
+        font-size: 12px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+        margin-top: 20px;
+        float: none;
+    }
+    .tv-free-desc {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .tv-blog-desc {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .tv-dream-desc {
+        left: 50%;
+        text-align: center;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 95%;
+    }
+    .tv-header-desc > a > h2 {
+        font-size: 30px;
+    }
+    .tv-header-desc > a > h1 {
+        font-size: 30px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #16335f;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .tv-banner-desc > p {
+        width: 90%;
+    }
+    .tv-about-desc {
+        text-align: center;
+    }
+    .tv-about-content {
+        text-align: center;
+    }
+    .tv-gallery-desc {
+        text-align: center;
+    }
+    .form-control::-moz-placeholder {
+        letter-spacing: 0px;
+    }
+    #reservation .btn-primary {
+        letter-spacing:0px;
+    }
+    .tv-footer-desc {
+        text-align: center;
+    }
+    .tv-footer-desc > p {
+        text-align: center;
+    }
+    .tv-dream-desc > p{
+        text-align: center;
+    }
+    .border {
+        margin: 30px auto;
+    }
+    .tv-condominiums-desc > p {
+        text-align: center;
+    }
+    .tv-blog-desc > p{
+        text-align: center;
+    }
+    .tv-layout2-img > img {
+        height: 400px;
+    }
+    .tv-layout2-img{
+        height:400px;
+    }
+    #resortlayout2 .carousel-control {
+        opacity: 1;
+        top: 90%;
+    }
+    .nav > li {
+        display: inline;
+    }
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    .dropdown-content a:hover {background-color: #f1f1f1}
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    .dropdown-content {
+        background: #ffffff none repeat scroll 0 0;
+        border-left: 5px solid #f37c3d;
+        color: #ffffff;
+        left: 0;
+        padding: 0;
+        width: auto;
+        border-radius: 0;
+        border-width: 0 0 0 5px;
+        min-width: 200px;
+        position: relative;
+    }
+    .dropdown-menu > li > a {
+        clear: both;
+        color: #000000;
+        display: block;
+        font-size: 1.04em;
+        letter-spacing: 1px;
+        padding: 15px;
+        white-space: nowrap;
+        text-transform: capitalize;
+    }
+    .tv-hotel-desc {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .tv-hotel-desc > p {
+        text-align: center;
+    }
+    .tv-404-info {
+        left: 50%;
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        z-index: 2;
+    }
+    .error-border {
+        margin: 15px auto;
+    }
+    .tv-404-info > p {
+        width: 100%;
+    }
+    .tv-about-info {
+        font-size: 1.4em;
+    }
+}
+
+
+
+
+
+
+
