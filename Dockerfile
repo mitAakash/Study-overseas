@@ -36,6 +36,9 @@ RUN composer dump-autoload --optimize
 # Set permissions
 RUN chown -R www-data:www-data /var/www/Study-overseas/storage /var/www/Study-overseas/bootstrap/cache
 
+COPY .env.example .env
+
+RUN php artisan key:generate 
 # Apache configuration
 COPY apache-config.conf /etc/apache2/sites-available/000-default.conf
 
