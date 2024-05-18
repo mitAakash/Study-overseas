@@ -50,7 +50,7 @@ License URI: http://www.themevault.net/license/-->
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="tv-header-desc">
-                            <a href="home"><h1><span>S</span>Tudy</h1>&nbsp;&nbsp;
+                            <a href="home"><h1><span>A</span>akash</h1>&nbsp;&nbsp;
                                 <h2><span>O</span>verseas</h2></a>
                         </div>
                     </div>
